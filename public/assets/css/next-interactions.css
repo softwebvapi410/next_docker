@@ -1,0 +1,106 @@
+.faq-two .insuba-accordion .accordion-content {
+  display: none;
+}
+
+.faq-two .insuba-accordion .accordion.active .accordion-content {
+  display: block;
+}
+
+.contact__form .contact-service-select,
+.contact__form select[name="service"] {
+  display: block;
+  width: 100%;
+  height: 50px;
+  padding: 0 26px;
+  border: 1px solid var(--insuba-gray7, #e8e7e7);
+  border-radius: 30px;
+  background: #fff;
+  color: var(--insuba-text, #636363);
+  font: 400 16px var(--insuba-font, "Roboto", sans-serif);
+}
+
+.contact__form .contact-service-select:focus,
+.contact__form select[name="service"]:focus {
+  border-color: var(--insuba-base, #37528e);
+  color: var(--insuba-black, #122f2a);
+  outline: none;
+}
+
+.main-header__search {
+  border: 0;
+  cursor: pointer;
+}
+
+.search-popup__overlay {
+  border: 0;
+  padding: 0;
+}
+
+.search-popup__content {
+  max-height: min(82vh, 680px);
+  overflow-y: auto;
+}
+
+.site-search__results {
+  margin-top: 16px;
+  padding: 20px 24px;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 12px 36px rgba(20, 35, 50, 0.16);
+}
+
+.site-search__heading {
+  margin: 0 0 8px;
+  color: var(--insuba-text-gray, #767676);
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.site-search__result {
+  display: grid;
+  gap: 2px;
+  padding: 11px 0;
+  border-top: 1px solid var(--insuba-gray3, #eee);
+}
+
+.site-search__result span {
+  color: var(--insuba-black, #122f2a);
+  font-weight: 600;
+}
+
+.site-search__result small,
+.site-search__empty {
+  color: var(--insuba-text-gray, #767676);
+}
+
+.site-search__result:hover span {
+  color: var(--insuba-base, #37528e);
+}
+
+.google-translate-hidden {
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
+
+.topbar__language #language-select-header {
+  width: auto;
+  min-width: 96px;
+  border: 0;
+  background: transparent;
+  color: var(--insuba-white, #fff);
+  font: 500 13px var(--insuba-font, "Roboto", sans-serif);
+  text-transform: uppercase;
+}
+
+.topbar__language #language-select-header:focus {
+  outline: 1px solid currentColor;
+}
+
+.goog-te-banner-frame.skiptranslate {
+  display: none !important;
+}
+
+body {
+  top: 0 !important;
+}

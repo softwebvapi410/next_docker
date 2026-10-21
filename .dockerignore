@@ -62,6 +62,7 @@ compose*.yaml
 # Documentation (not needed in the image)
 *.md
 docs/
+softweb/
 
 # CI/CD (not needed in the image)
 .github/

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="264px" height="265px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 4509000 4524000"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#FEFEFE}
+    .fil1 {fill:#EC6928}
+    .fil3 {fill:url(#id0)}
+    .fil2 {fill:url(#id1)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="1280000" y1="2214000" x2="3344000" y2="951000">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2FA6DE"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#8DB8DA"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="3868000" y1="-261000" x2="-851000" y2="3504000">
+   <stop offset="0" style="stop-opacity:1; stop-color:#015DAA"/>
+   <stop offset="0.721569" style="stop-opacity:1; stop-color:#104FA1"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#1F4198"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M2249000 3000c1248000,0 2284000,1023000 2259000,2260000 -25000,1237000 -1080000,2302000 -2259000,2248000 -519000,-25000 -1085000,-217000 -1442000,-525000 -493000,-425000 -805000,-1023000 -805000,-1723000 0,-1248000 999000,-2260000 2247000,-2260000z"/>
+  <path class="fil1" d="M4486000 1933000c279000,2034000 -2073000,3400000 -3681000,2052000 968000,7000 1433000,-566000 1269000,-1348000 506000,922000 652000,1312000 1025000,127000 320000,1503000 1362000,-130000 1387000,-831000z"/>
+  <path class="fil2" d="M3232000 731000c597000,495000 593000,1277000 9000,1713000 738000,923000 1501000,-819000 585000,-1817000 -1330000,-1287000 -3599000,-469000 -3820000,1325000 -152000,2582000 2475000,1645000 1226000,685000 -320000,-268000 -796000,-459000 -786000,-826000 -26000,-316000 179000,-639000 555000,-964000 572000,-467000 1642000,-634000 2231000,-116000z"/>
+  <path class="fil3" d="M3241000 2444000l-213000 -485000 -145000 796000c-61000,237000 -238000,278000 -382000,86000 -349000,-465000 -901000,-796000 -1257000,-1206000 -110000,-153000 -123000,-338000 -10000,-490000 425000,-479000 1055000,-626000 1718000,-500000 314000,95000 537000,281000 656000,584000 198000,534000 -16000,962000 -367000,1215000z"/>
+ </g>
+</svg>
