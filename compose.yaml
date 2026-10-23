@@ -1,6 +1,16 @@
 services:
   server:
-    build:
-      context: .
+    image: node:24.14.0-slim
+    working_dir: /app
+    init: true
+    environment:
+      NODE_ENV: development
+    command: npm run dev -- --hostname 0.0.0.0
     ports:
-      - 3000:3000
+      - "3000:3000"
+    volumes:
+      - .:/app
+      - next_cache:/app/.next
+
+volumes:
+  next_cache:
